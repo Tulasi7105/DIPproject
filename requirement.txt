@@ -1,0 +1,5 @@
+librarys required
+
+1.opencv-python
+2.numpy
+3.matplotlib
